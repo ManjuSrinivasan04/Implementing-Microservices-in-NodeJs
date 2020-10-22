@@ -1,6 +1,8 @@
 let request = require('request');
 
-const apiKey = "4A4WU2PYw7hCaPrX3CbgdkuoYlkCtTbcnUxy5gDNYMCTvLUv9R1c5AvonG5ZE0uq";
+//this key frequently expires during the day
+
+const apiKey = "4uQw0R1Phi5hLm30bJhmQkGl73rvf3esNkpqf7oR1ENMdU8IisXfPcjxtUsmMrFO";
 const zipCodeURL = 'https://www.zipcodeapi.com/rest/';
 
 let distance = {
